@@ -1,0 +1,26 @@
+# 📦 Amazon Sales Dashboard (Power BI)
+
+This dashboard visualizes Amazon sales, product details, and customer reviews using Power BI, with Excel as the primary data source.
+
+---
+
+## 📊 Key Features
+
+- 📌 Product-level analysis with state and city-wise sales breakdown
+- 📈 Custom DAX measures to analyze total sales, units sold, and revenue trends
+- 🛍️ Detailed product-level insights including ratings and reviews
+- 🌍 Interactive filters for category, region, city, and product selection
+
+---
+
+## 🛠 Tools Used
+
+- **Power BI** – Visualizations, DAX, and data modeling  
+- **Power Query** – Data transformation and cleaning  
+- **Excel** – Source data used for integration and refresh
+
+---
+
+## 📎 Note
+
+All data used in this project is mock/sample data for demonstration purposes. No real or confidential business data has been shared.
